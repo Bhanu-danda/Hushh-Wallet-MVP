@@ -24,13 +24,7 @@ Overall, the Hushh Wallet MVP highlights personalization, secure data control, a
 
 ---
 ## 📷 Preview
-
-![Hushh Wallet Screenshot 1](assets/screen1.png)
-![Hushh Wallet Screenshot 2](assets/screen2.png)
-![Hushh Wallet Screenshot 3](assets/homescreen.png)
-![Hushh Wallet Screenshot 2](assets/QR-share.png)
-![Hushh Wallet Screenshot 2](assets/Auditlog.png)
-
+<img width="1056" height="838" alt="Image" src="https://github.com/user-attachments/assets/9a58a63f-5185-4416-9af9-17f3952cf8da" />
 
 ## 🖼️ Screens & Assets
 All exported screens are available in the `assets/` folder.
@@ -47,4 +41,5 @@ The original Figma file (`hushh-wallet.fig`) is included for review or reuse.
 For any feedback, questions, or collaboration ideas:  
 Bhanu Prasad 
 Email: dandabhanu116@gmail.com
+
 
